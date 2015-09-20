@@ -78,6 +78,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DependencyScopeTests.cs" />
     <Compile Include="Helpers\Contact.cs" />
     <Compile Include="Helpers\ContactsController.cs" />
     <Compile Include="Helpers\IContactRepository.cs" />

@@ -6,7 +6,7 @@ using Should;
 using StructureMap;
 using WebApiContrib.IoC.StructureMap.Tests.Helpers;
 
-namespace WebApiContrib.IoC.StructureMap.Tests.IoC
+namespace WebApiContrib.IoC.StructureMap.Tests
 {
     [TestFixture]
     public class DependencyInjectionTests
