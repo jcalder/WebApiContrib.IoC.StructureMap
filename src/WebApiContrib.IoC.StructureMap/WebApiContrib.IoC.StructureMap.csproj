@@ -61,8 +61,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StructureMapDependencyResolver.cs" />
     <Compile Include="StructureMapDependencyScope.cs" />
-    <Compile Include="StructureMapResolver.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config">
